@@ -13,8 +13,8 @@ Programación (ICPC). Todo está en **Python 3** y en español.
 Con git (recomendado, así puedes traer las actualizaciones con `git pull`):
 
 ```
-git clone https://github.com/CesarAVegaF312/MaratonistasProgramacion.git
-cd MaratonistasProgramacion
+git clone https://github.com/CesarAVegaF312/IEEE-Maratonistas_Programaci-n.git
+cd IEEE-Maratonistas_Programaci-n
 ```
 
 Sin git: botón verde **Code → Download ZIP** en GitHub.
