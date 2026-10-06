@@ -61,6 +61,12 @@ cd ICPC && python probar.py "Colombia 2025"
 4. Cada algoritmo del banco trae una sección **DÓNDE PRACTICAR** con problemas
    de esta misma carpeta `ICPC/`.
 
-## Autor
+## Autor y licencia
 
 César A. Vega F. — <cesar.a.vega.f@gmail.com>
+
+El código (soluciones y banco de algoritmos) está bajo licencia
+[MIT](LICENSE): puedes usarlo, copiarlo y modificarlo libremente, manteniendo
+el aviso de copyright. Los enunciados de los problemas (`.pdf`) pertenecen a
+sus autores y organizadores (ICPC y las competencias correspondientes) y no
+están cubiertos por esa licencia.
