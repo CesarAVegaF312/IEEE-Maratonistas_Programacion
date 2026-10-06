@@ -1,0 +1,22 @@
+# Lista blanca: esta carpeta también guarda material administrativo
+# (inscripciones, certificados, avales, planillas por integrante) que NO
+# debe publicarse. Todo lo de la raíz se ignora salvo lo listado abajo.
+# Para publicar una carpeta nueva, agrégala aquí con «!/Carpeta/».
+/*
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/BancoAlgoritmos/
+!/ICPC/
+
+# Python
+__pycache__/
+*.pyc
+
+# Sistema / editores
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
+.vscode/
+.idea/

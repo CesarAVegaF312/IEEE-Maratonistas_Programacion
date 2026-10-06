@@ -1,0 +1,23 @@
+3
+prlck 0:
+x = x * 2 + 3
+if 3 div x jumpto prlck 2 else jumpto prlck 1
+prlck 1:
+x = x * 4 + 1
+if 5 div x jumpto prlck 0 else jumpto prlck 2
+prlck 2:
+x = x + 5
+if 7 div x jumpto prlck 1 else jumpto end
+1 2 2
+3
+prlck 0:
+x = x + 3
+if 71 div x jumpto end else jumpto prlck 1
+prlck 1:
+x = x * 15
+if 131 div x jumpto end else jumpto prlck 2
+prlck 2:
+x = x * 24 + 1
+if 3 div x jumpto prlck 1 else jumpto prlck 0
+7 7 6
+0
